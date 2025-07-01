@@ -97,6 +97,3 @@ Added for completeness.
 - Columns prefixed with `entry-` are from the prescreening questionnaire.
 - Columns prefixed with `exit-` are from the exit survey after each task.
 - `email-text` fields are **not** email addresses; they contain optional clarifications provided during post-task follow-up.
-- Free-text responses (`exit-tools-text`, `exit-final-text`, `email-text`) may contain feedback and should be treated cautiously in downstream analysis.
-
-For full methodological details and instrumentation, see the registered report and the intermediate summary in the `paper/` folder.
