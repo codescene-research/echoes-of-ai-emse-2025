@@ -1,0 +1,451 @@
+entry-demo-1,entry-demo-2,entry-demo-3,entry-demo-4,entry-demo-5,entry-ai-1,entry-ai-2,entry-ai-3,entry-ai-4,entry-ai-5,entry-ai-6,entry-ai-7,entry-ai-8,entry-ai-9,entry-ai-10,entry-date
+Man,30-39,India,Professional,Advanced,No,,,,,,,,,,25/07/2024 10:03:22
+Man,30-39,United Kingdom,Professional,Intermediate,Yes,3.0,3.0,4.0,4.0,,4.0,2.0,4.0,4.0,09/10/2024 12:42:34
+Man,30-39,India,Professional,Advanced,Yes,4.0,3.0,3.0,5.0,5.0,4.0,3.0,4.0,3.0,09/10/2024 12:43:40
+Man,30-39,United Kingdom,Professional,Advanced,Yes,4.0,5.0,3.0,5.0,2.0,2.0,3.0,3.0,3.0,09/10/2024 12:45:20
+Man,30-39,United Kingdom,Professional,Intermediate,Yes,3.0,3.0,2.0,4.0,4.0,1.0,2.0,3.0,2.0,09/10/2024 12:49:57
+Man,20-29,United Kingdom,Professional,Advanced,Yes,1.0,3.0,3.0,4.0,4.0,4.0,2.0,3.0,3.0,09/10/2024 12:57:22
+Man,30-39,South Africa,Professional,Advanced,No,,,,,,,,,,09/10/2024 13:32:33
+Man,40-49,India,Professional,Advanced,No,,,,,,,,,,09/10/2024 14:12:26
+Woman,30-39,Germany,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,5.0,3.0,2.0,3.0,4.0,09/10/2024 16:02:26
+Man,30-39,United Kingdom,Professional,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,5.0,09/10/2024 20:42:28
+Man,40-49,United Kingdom,Professional,Advanced,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,10/10/2024 7:43:15
+Man,30-39,India,Professional,Advanced,No,,,,,,,,,,10/10/2024 10:10:53
+Woman,30-39,India,Professional,Advanced,No,,,,,,,,,,11/10/2024 9:39:39
+Woman,20-29,India,Professional,Advanced,Yes,4.0,5.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,11/10/2024 10:36:07
+Man,30-39,India,Professional,Advanced,Yes,3.0,3.0,2.0,4.0,4.0,2.0,4.0,3.0,2.0,11/10/2024 12:19:01
+Man,20-29,India,Professional,Advanced,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,11/10/2024 13:13:02
+Man,30-39,India,Professional,Advanced,Yes,3.0,4.0,4.0,5.0,5.0,4.0,2.0,3.0,4.0,11/10/2024 13:23:15
+Man,40-49,United Kingdom,Professional,Advanced,No,,,,,,,,,,11/10/2024 13:26:37
+Man,50-59,United Kingdom,Professional,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,5.0,11/10/2024 13:55:21
+Man,40-49,United Kingdom,Professional,Intermediate,Yes,3.0,4.0,5.0,4.0,,4.0,3.0,4.0,4.0,11/10/2024 14:13:54
+Man,30-39,India,Professional,Intermediate,No,,,,,,,,,,11/10/2024 14:23:51
+Man,30-39,India,Professional,Advanced,Yes,3.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,4.0,11/10/2024 14:39:04
+Man,40-49,United Kingdom,Professional,Advanced,No,,,,,,,,,,11/10/2024 15:10:17
+Man,60-69,United Kingdom,Professional,Advanced,Yes,3.0,3.0,4.0,2.0,5.0,2.0,4.0,3.0,2.0,11/10/2024 16:29:03
+Man,40-49,United Kingdom,Professional,Advanced,Yes,4.0,5.0,5.0,4.0,3.0,4.0,1.0,4.0,4.0,11/10/2024 17:01:45
+Man,40-49,United Kingdom,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,5.0,11/10/2024 17:55:49
+Man,50-59,Prefer not to disclose,Professional,Advanced,Yes,3.0,,3.0,3.0,3.0,3.0,3.0,3.0,3.0,11/10/2024 21:15:37
+Man,30-39,United Kingdom,Professional,Advanced,No,,,,,,,,,,11/10/2024 21:23:59
+Man,30-39,Australia,Professional,Advanced,No,,,,,,,,,,12/10/2024 1:01:44
+Man,30-39,India,Professional,Advanced,Yes,3.0,4.0,3.0,4.0,3.0,3.0,2.0,2.0,3.0,12/10/2024 6:49:13
+Man,50-59,United Kingdom,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,12/10/2024 20:32:59
+Man,30-39,India,Professional,Intermediate,Yes,4.0,5.0,5.0,5.0,5.0,5.0,2.0,4.0,4.0,14/10/2024 05:25:03
+Woman,20-29,United Kingdom,Professional,Intermediate,No,,,,,,,,,,15/10/2024 10:11:40
+Woman,30-39,India,Professional,Intermediate,No,,,,,,,,,,16/10/2024 16:12:57
+Man,30-39,India,Professional,Advanced,Yes,4.0,2.0,3.0,5.0,4.0,1.0,1.0,2.0,3.0,17/10/2024 10:03:38
+Man,20-29,India,Professional,Advanced,No,,,,,,,,,,18/10/2024 05:22:38
+Man,40-49,Denmark,Professional,Advanced,No,,,,,,,,,,25/10/2024 08:18:59
+Man,50-59,United Kingdom,Researcher,Beginner,No,,,,,,,,,,11/11/2024 12:19:16
+Man,40-49,United Kingdom,Professional,Beginner,Yes,3.0,4.0,3.0,4.0,4.0,2.0,4.0,3.0,2.0,13/11/2024 19:05:44
+Man,20-29,Brazil,Professional,Advanced,Yes,4.0,3.0,3.0,5.0,5.0,3.0,2.0,3.0,3.0,13/11/2024 19:15:38
+Man,30-39,Germany,Professional,Advanced,Yes,2.0,2.0,2.0,4.0,3.0,2.0,5.0,1.0,3.0,13/11/2024 19:19:52
+Man,20-29,Prefer not to disclose,Professional,Beginner,No,,,,,,,,,,13/11/2024 19:22:04
+Man,50-59,Israel,Professional,Intermediate,Yes,4.0,5.0,5.0,4.0,5.0,3.0,2.0,5.0,5.0,13/11/2024 19:43:01
+Man,40-49,Brazil,Professional,Advanced,Yes,3.0,2.0,3.0,2.0,3.0,2.0,4.0,3.0,2.0,13/11/2024 19:43:40
+Man,40-49,United States,Professional,Beginner,No,,,,,,,,,,13/11/2024 19:44:25
+Man,30-39,Germany,Professional,Intermediate,No,,,,,,,,,,13/11/2024 19:46:57
+Man,60-69,Netherlands,Professional,Advanced,Yes,2.0,2.0,4.0,4.0,3.0,2.0,4.0,2.0,2.0,13/11/2024 19:53:21
+Prefer not to disclose,30-39,Germany,Professional,Advanced,Yes,3.0,3.0,3.0,3.0,4.0,2.0,4.0,3.0,3.0,13/11/2024 19:53:54
+Man,50-59,United States,Professional,Advanced,Yes,2.0,1.0,1.0,3.0,2.0,1.0,5.0,1.0,2.0,13/11/2024 19:54:40
+Man,50-59,Poland,Professional,Intermediate,No,,,,,,,,,,13/11/2024 19:57:22
+Man,40-49,Poland,Professional,Intermediate,Yes,2.0,4.0,4.0,5.0,2.0,1.0,3.0,1.0,2.0,13/11/2024 19:58:06
+Man,30-39,Iceland,Professional,Beginner,Yes,3.0,4.0,5.0,5.0,5.0,3.0,2.0,4.0,4.0,13/11/2024 19:59:36
+Man,50-59,United States,Professional,Intermediate,Yes,4.0,4.0,4.0,2.0,4.0,1.0,3.0,2.0,4.0,13/11/2024 19:59:42
+Man,30-39,Bulgaria,Professional,Advanced,Yes,3.0,4.0,4.0,5.0,4.0,2.0,3.0,2.0,2.0,13/11/2024 20:01:27
+Man,30-39,Ukraine,Professional,Intermediate,Yes,3.0,3.0,3.0,2.0,4.0,4.0,2.0,3.0,3.0,13/11/2024 20:02:01
+Man,40-49,United Kingdom,Researcher,Advanced,Yes,4.0,4.0,3.0,5.0,5.0,2.0,2.0,4.0,3.0,13/11/2024 20:09:29
+Man,30-39,Germany,Professional,Intermediate,Yes,2.0,3.0,3.0,4.0,4.0,3.0,2.0,3.0,3.0,13/11/2024 20:10:09
+Man,20-29,Denmark,Professional,Beginner,Yes,3.0,4.0,3.0,4.0,4.0,3.0,2.0,3.0,4.0,13/11/2024 20:10:49
+Man,20-29,South Africa,Professional,Beginner,Yes,2.0,4.0,3.0,4.0,5.0,4.0,2.0,3.0,3.0,13/11/2024 20:12:43
+Man,40-49,Germany,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,3.0,1.0,4.0,1.0,3.0,13/11/2024 20:14:34
+Man,30-39,Russian Federation,Professional,Intermediate,No,,,,,,,,,,13/11/2024 20:14:44
+Man,50-59,Canada,Professional,Advanced,Yes,5.0,,5.0,3.0,5.0,5.0,1.0,5.0,5.0,13/11/2024 20:15:57
+Man,50-59,Finland,Professional,Intermediate,No,,,,,,,,,,13/11/2024 20:16:46
+Man,30-39,New Zealand,Professional,Advanced,No,,,,,,,,,,13/11/2024 20:17:20
+Man,20-29,Sweden,Professional,Advanced,Yes,2.0,3.0,2.0,2.0,5.0,3.0,4.0,2.0,4.0,13/11/2024 20:24:50
+Man,40-49,Sweden,Professional,Intermediate,Yes,2.0,1.0,4.0,5.0,3.0,2.0,5.0,1.0,2.0,13/11/2024 20:25:08
+Man,30-39,Tunisia,Professional,Beginner,Yes,2.0,2.0,3.0,4.0,4.0,2.0,4.0,3.0,4.0,13/11/2024 20:26:30
+Man,30-39,Ukraine,Professional,Intermediate,No,,,,,,,,,,13/11/2024 20:30:30
+Man,50-59,United States,Professional,Advanced,Yes,2.0,2.0,2.0,4.0,3.0,1.0,4.0,3.0,2.0,13/11/2024 20:37:53
+Woman,30-39,United States,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,4.0,3.0,3.0,4.0,4.0,13/11/2024 20:39:10
+Man,30-39,United Kingdom,Professional,Intermediate,No,,,,,,,,,,13/11/2024 20:41:36
+Man,40-49,United States,Professional,Beginner,No,,,,,,,,,,13/11/2024 20:46:05
+Man,50-59,Germany,Professional,Intermediate,No,,,,,,,,,,13/11/2024 20:49:47
+Man,40-49,Finland,Professional,Advanced,Yes,4.0,4.0,3.0,4.0,4.0,4.0,1.0,3.0,2.0,13/11/2024 20:52:43
+Man,30-39,Spain,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,4.0,4.0,3.0,3.0,3.0,13/11/2024 20:53:05
+Man,20-29,Portugal,Professional,Beginner,Yes,5.0,4.0,4.0,4.0,5.0,1.0,5.0,4.0,4.0,13/11/2024 20:53:07
+Man,40-49,Brazil,Professional,Advanced,Yes,4.0,3.0,4.0,5.0,5.0,4.0,3.0,4.0,4.0,13/11/2024 21:04:39
+Man,40-49,Mexico,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,13/11/2024 21:05:51
+Man,20-29,Belgium,Professional,Beginner,No,,,,,,,,,,13/11/2024 21:13:16
+Man,50-59,United Kingdom,Professional,Advanced,No,,,,,,,,,,13/11/2024 21:15:02
+Man,20-29,France,Professional,Advanced,Yes,2.0,3.0,3.0,2.0,2.0,2.0,3.0,3.0,2.0,13/11/2024 21:15:31
+Man,50-59,Spain,consultant,Beginner,No,,,,,,,,,,13/11/2024 21:18:18
+Man,20-29,Germany,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,4.0,1.0,5.0,2.0,2.0,13/11/2024 21:18:19
+Man,20-29,France,Professional,Beginner,No,,,,,,,,,,13/11/2024 21:25:58
+Man,30-39,Canada,Professional,Intermediate,No,,,,,,,,,,13/11/2024 21:26:57
+Man,30-39,Sweden,Professional,Beginner,Yes,3.0,3.0,3.0,4.0,2.0,2.0,2.0,3.0,2.0,13/11/2024 21:28:06
+Prefer not to disclose,30-39,Netherlands,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,3.0,1.0,4.0,3.0,4.0,13/11/2024 21:33:23
+Man,30-39,Spain,Professional,Advanced,No,,,,,,,,,,13/11/2024 21:34:17
+Man,40-49,Ireland {Republic},Professional,Advanced,No,,,,,,,,,,13/11/2024 21:35:47
+Woman,40-49,Germany,Professional,Advanced,Yes,3.0,4.0,4.0,5.0,5.0,5.0,2.0,4.0,5.0,13/11/2024 21:43:11
+Man,30-39,Belgium,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,2.0,3.0,4.0,3.0,3.0,13/11/2024 21:59:22
+Man,40-49,Spain,Professional,Intermediate,Yes,4.0,4.0,4.0,3.0,4.0,4.0,2.0,3.0,4.0,13/11/2024 22:05:01
+Man,20-29,Poland,Professional,Advanced,No,,,,,,,,,,13/11/2024 22:06:34
+Man,20-29,United States,Professional,Beginner,Yes,3.0,4.0,4.0,3.0,5.0,2.0,2.0,3.0,4.0,13/11/2024 22:08:18
+Man,30-39,Switzerland,Professional,Advanced,No,,,,,,,,,,13/11/2024 22:15:21
+Man,30-39,Finland,Professional,Intermediate,Yes,3.0,4.0,4.0,2.0,5.0,2.0,4.0,3.0,2.0,13/11/2024 22:16:40
+Man,40-49,Spain,Professional,Advanced,Yes,4.0,3.0,3.0,2.0,4.0,3.0,2.0,1.0,3.0,13/11/2024 22:18:51
+Man,50-59,Serbia,Professional,Advanced,No,,,,,,,,,,13/11/2024 22:19:09
+Man,30-39,Mexico,Professional,Advanced,Yes,5.0,3.0,3.0,5.0,5.0,4.0,2.0,3.0,3.0,13/11/2024 22:21:36
+Man,20-29,Israel,Professional,Intermediate,Yes,2.0,1.0,1.0,2.0,4.0,2.0,4.0,1.0,3.0,13/11/2024 22:22:15
+Man,30-39,Sweden,Professional,Intermediate,No,,,,,,,,,,13/11/2024 22:24:09
+Man,30-39,Germany,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,5.0,3.0,3.0,3.0,3.0,13/11/2024 22:25:24
+Man,30-39,United Kingdom,Professional,Advanced,Yes,3.0,3.0,4.0,4.0,5.0,2.0,3.0,3.0,3.0,13/11/2024 22:34:29
+Man,40-49,Germany,Professional,Beginner,Yes,5.0,4.0,5.0,4.0,5.0,3.0,2.0,3.0,3.0,13/11/2024 22:50:11
+Man,50-59,Canada,Professional,Advanced,No,,,,,,,,,,13/11/2024 22:53:43
+Man,30-39,United Kingdom,Professional,Advanced,No,,,,,,,,,,13/11/2024 22:58:08
+Prefer not to disclose,40-49,Prefer not to disclose,Professional,Advanced,No,,,,,,,,,,13/11/2024 23:07:10
+Man,30-39,Germany,Professional,Advanced,Yes,5.0,3.0,4.0,3.0,4.0,4.0,4.0,3.0,4.0,13/11/2024 23:15:10
+Man,40-49,France,Professional,Advanced,No,,,,,,,,,,13/11/2024 23:32:59
+Man,40-49,United States,Professional,Beginner,No,,,,,,,,,,13/11/2024 23:42:50
+Man,40-49,Portugal,Professional,Advanced,No,,,,,,,,,,13/11/2024 23:45:09
+Man,30-39,Bulgaria,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,3.0,1.0,3.0,3.0,13/11/2024 23:58:33
+Man,20-29,Austria,Professional,Intermediate,No,,,,,,,,,,14/11/2024 00:13:49
+Man,20-29,United States,Professional,Beginner,Yes,3.0,3.0,3.0,2.0,4.0,3.0,2.0,2.0,2.0,14/11/2024 00:15:15
+Man,40-49,Australia,Professional,Intermediate,No,,,,,,,,,,14/11/2024 00:29:15
+Man,40-49,United States,Professional,Beginner,Yes,1.0,2.0,3.0,2.0,3.0,3.0,5.0,1.0,1.0,14/11/2024 00:34:39
+Man,40-49,Portugal,Professional,Advanced,Yes,5.0,4.0,4.0,4.0,4.0,2.0,4.0,3.0,2.0,14/11/2024 00:38:14
+Man,40-49,Brazil,Professional,Advanced,Yes,5.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,3.0,14/11/2024 01:17:33
+Man,50-59,Australia,Professional,Advanced,Yes,5.0,3.0,5.0,4.0,4.0,4.0,2.0,3.0,3.0,14/11/2024 01:23:47
+Man,60-69,Canada,Professional,Advanced,No,,,,,,,,,,14/11/2024 01:27:50
+Prefer not to disclose,40-49,Prefer not to disclose,Researcher,Beginner,No,,,,,,,,,,14/11/2024 01:28:10
+Man,30-39,Canada,Professional,Advanced,No,,,,,,,,,,14/11/2024 01:39:17
+Man,40-49,Australia,Professional,Beginner,Yes,5.0,5.0,5.0,3.0,3.0,4.0,5.0,3.0,4.0,14/11/2024 01:43:00
+Man,50-59,United States,Professional,Intermediate,Yes,2.0,3.0,3.0,4.0,3.0,3.0,2.0,3.0,3.0,14/11/2024 01:56:53
+Man,50-59,United States,Professional,Advanced,No,,,,,,,,,,14/11/2024 02:04:14
+Man,20-29,Australia,Professional,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,5.0,2.0,2.0,4.0,14/11/2024 02:09:19
+Man,20-29,United States,Professional,Advanced,Yes,4.0,3.0,4.0,5.0,2.0,,2.0,3.0,3.0,14/11/2024 02:11:40
+Man,50-59,Philippines,Professional,Intermediate,Yes,5.0,5.0,4.0,5.0,4.0,4.0,2.0,4.0,4.0,14/11/2024 02:22:56
+Man,Prefer not to disclose,Canada,Professional,Beginner,Yes,2.0,2.0,2.0,3.0,2.0,2.0,3.0,1.0,2.0,14/11/2024 02:24:55
+Man,40-49,Germany,Professional,Advanced,Yes,5.0,5.0,4.0,4.0,4.0,3.0,1.0,3.0,4.0,14/11/2024 02:25:44
+Man,40-49,United States,Professional,Advanced,Yes,4.0,3.0,3.0,2.0,4.0,2.0,2.0,2.0,2.0,14/11/2024 02:33:50
+Man,30-39,United States,Professional,Advanced,Yes,5.0,5.0,5.0,3.0,4.0,3.0,4.0,3.0,5.0,14/11/2024 02:39:18
+Man,30-39,Australia,Professional,Intermediate,Yes,3.0,4.0,4.0,3.0,4.0,2.0,3.0,3.0,4.0,14/11/2024 02:55:37
+Man,40-49,Canada,Hobbyist,Intermediate,No,,,,,,,,,,14/11/2024 02:57:41
+Man,30-39,United States,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,4.0,3.0,2.0,4.0,4.0,14/11/2024 02:58:58
+Man,40-49,Romania,Professional,Beginner,Yes,5.0,4.0,3.0,5.0,5.0,5.0,2.0,4.0,4.0,14/11/2024 03:03:12
+Man,50-59,United States,Professional,Advanced,Yes,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,1.0,14/11/2024 03:18:30
+Man,30-39,France,Professional,Beginner,Yes,4.0,5.0,4.0,5.0,1.0,4.0,3.0,4.0,5.0,14/11/2024 03:31:14
+Man,40-49,United States,Professional,Intermediate,Yes,4.0,4.0,4.0,5.0,5.0,3.0,2.0,3.0,3.0,14/11/2024 03:50:14
+Man,40-49,Australia,Professional,Beginner,Yes,2.0,3.0,4.0,5.0,4.0,4.0,2.0,4.0,4.0,14/11/2024 04:17:10
+Man,20-29,United States,Professional,Advanced,No,,,,,,,,,,14/11/2024 04:31:28
+Man,30-39,United States,Professional,Beginner,Yes,4.0,4.0,5.0,5.0,5.0,5.0,2.0,3.0,3.0,14/11/2024 04:46:57
+Man,20-29,United States,Professional,Intermediate,Yes,2.0,1.0,2.0,4.0,2.0,1.0,4.0,1.0,2.0,14/11/2024 04:51:31
+Man,40-49,Finland,Professional,Intermediate,Yes,2.0,2.0,2.0,3.0,2.0,2.0,4.0,2.0,2.0,14/11/2024 06:18:32
+Man,30-39,Germany,Hobbyist,Advanced,Yes,5.0,5.0,5.0,4.0,5.0,5.0,2.0,4.0,5.0,14/11/2024 06:25:23
+Woman,40-49,Sweden,Professional,Intermediate,No,,,,,,,,,,14/11/2024 06:58:06
+Man,30-39,United States,Professional,Intermediate,Yes,1.0,2.0,2.0,3.0,1.0,1.0,5.0,3.0,3.0,14/11/2024 06:58:42
+Man,40-49,Canada,Professional,Advanced,Yes,5.0,4.0,4.0,5.0,5.0,4.0,2.0,4.0,4.0,14/11/2024 07:03:12
+Prefer not to disclose,40-49,Denmark,Professional,Advanced,Yes,1.0,3.0,3.0,3.0,4.0,2.0,4.0,2.0,3.0,14/11/2024 07:05:43
+Man,60-69,Singapore,Professional,Advanced,Yes,4.0,4.0,4.0,3.0,5.0,2.0,4.0,2.0,3.0,14/11/2024 07:13:06
+Man,30-39,India,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0,14/11/2024 07:20:14
+Man,30-39,Belgium,Professional,Beginner,Yes,3.0,3.0,2.0,4.0,2.0,3.0,2.0,3.0,2.0,14/11/2024 07:21:09
+Man,30-39,Finland,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,4.0,1.0,3.0,5.0,14/11/2024 07:22:04
+Man,20-29,Nepal,Professional,Intermediate,Yes,3.0,5.0,5.0,4.0,5.0,3.0,1.0,4.0,4.0,14/11/2024 07:22:29
+Man,40-49,Finland,Professional,Advanced,Yes,4.0,3.0,4.0,1.0,5.0,4.0,3.0,2.0,3.0,14/11/2024 07:29:02
+Man,50-59,Germany,Professional,Advanced,Yes,3.0,4.0,4.0,4.0,2.0,3.0,2.0,2.0,2.0,14/11/2024 07:31:03
+Prefer not to disclose,40-49,Germany,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,4.0,2.0,4.0,1.0,2.0,14/11/2024 07:32:18
+Man,60-69,United Kingdom,Professional,Advanced,Yes,2.0,3.0,4.0,5.0,5.0,5.0,1.0,4.0,4.0,14/11/2024 07:42:31
+Man,30-39,Czech Republic,Professional,Beginner,Yes,5.0,4.0,4.0,4.0,4.0,4.0,1.0,4.0,3.0,14/11/2024 07:46:09
+Man,40-49,Germany,Professional,Beginner,Yes,3.0,3.0,2.0,3.0,4.0,2.0,3.0,3.0,2.0,14/11/2024 07:57:31
+Man,30-39,Moldova,Professional,Intermediate,Yes,3.0,3.0,2.0,4.0,3.0,2.0,4.0,3.0,3.0,14/11/2024 08:02:27
+Man,40-49,Italy,Professional,Intermediate,Yes,3.0,4.0,4.0,5.0,4.0,2.0,2.0,3.0,2.0,14/11/2024 08:04:27
+Man,40-49,United Kingdom,Professional,Intermediate,Yes,4.0,4.0,4.0,5.0,5.0,3.0,4.0,3.0,4.0,14/11/2024 08:05:59
+Man,50-59,Sweden,Professional,Advanced,Yes,4.0,4.0,3.0,4.0,5.0,4.0,2.0,3.0,3.0,14/11/2024 08:06:02
+Man,20-29,Serbia,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,4.0,4.0,2.0,3.0,3.0,14/11/2024 08:19:29
+Man,30-39,Poland,Professional,Intermediate,Yes,2.0,2.0,3.0,4.0,4.0,1.0,4.0,3.0,2.0,14/11/2024 08:21:36
+Man,40-49,Portugal,Professional,Advanced,No,,,,,,,,,,14/11/2024 08:25:08
+Man,40-49,Austria,Professional,Advanced,Yes,5.0,4.0,4.0,4.0,3.0,4.0,2.0,4.0,4.0,14/11/2024 08:25:22
+Man,40-49,Thailand,Professional,Beginner,Yes,4.0,3.0,3.0,4.0,4.0,3.0,3.0,3.0,,14/11/2024 08:29:08
+Man,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Intermediate,Yes,5.0,,5.0,5.0,5.0,5.0,1.0,5.0,,14/11/2024 08:41:22
+Man,50-59,France,Professional,Beginner,No,,,,,,,,,,14/11/2024 08:54:51
+Man,50-59,United Kingdom,Professional,Advanced,No,,,,,,,,,,14/11/2024 08:57:44
+Man,30-39,Poland,Professional,Advanced,Yes,2.0,3.0,2.0,5.0,3.0,2.0,4.0,3.0,3.0,14/11/2024 08:59:16
+Woman,40-49,New Zealand,Professional,Advanced,Yes,4.0,5.0,5.0,5.0,5.0,4.0,2.0,4.0,4.0,14/11/2024 09:13:30
+Man,50-59,Denmark,Professional,Intermediate,No,,,,,,,,,,14/11/2024 09:20:12
+Man,50-59,Poland,Hobbyist,Intermediate,Yes,4.0,4.0,4.0,5.0,5.0,3.0,2.0,3.0,3.0,14/11/2024 09:31:59
+Man,40-49,Australia,Professional,Beginner,Yes,4.0,4.0,3.0,4.0,2.0,2.0,2.0,3.0,3.0,14/11/2024 09:43:00
+Man,30-39,Italy,Professional,Beginner,Yes,4.0,4.0,5.0,4.0,5.0,3.0,2.0,3.0,3.0,14/11/2024 09:47:12
+Man,40-49,United Kingdom,Professional,Intermediate,Yes,2.0,3.0,4.0,5.0,3.0,3.0,3.0,3.0,5.0,14/11/2024 09:49:33
+Man,50-59,Italy,Professional,Advanced,Yes,4.0,3.0,4.0,4.0,5.0,3.0,3.0,3.0,4.0,14/11/2024 09:50:47
+Man,40-49,Czech Republic,Professional,Beginner,Yes,3.0,3.0,3.0,3.0,4.0,3.0,4.0,3.0,3.0,14/11/2024 09:56:15
+Man,30-39,Belgium,Professional,Beginner,Yes,4.0,5.0,4.0,4.0,5.0,3.0,3.0,3.0,4.0,14/11/2024 10:01:08
+Man,50-59,United Kingdom,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,3.0,4.0,2.0,5.0,4.0,14/11/2024 10:11:27
+Man,20-29,Romania,Professional,Intermediate,Yes,3.0,1.0,4.0,5.0,4.0,1.0,5.0,1.0,1.0,14/11/2024 10:20:48
+Man,30-39,India,Professional,Intermediate,Yes,3.0,2.0,3.0,2.0,4.0,2.0,3.0,3.0,3.0,14/11/2024 10:24:05
+Man,30-39,France,Professional,Beginner,Yes,4.0,3.0,3.0,4.0,5.0,1.0,2.0,3.0,2.0,14/11/2024 10:27:23
+Man,40-49,United Kingdom,Professional,Intermediate,Yes,3.0,4.0,4.0,5.0,5.0,3.0,3.0,4.0,4.0,14/11/2024 10:28:02
+Man,30-39,Poland,Professional,Advanced,Yes,3.0,4.0,4.0,5.0,2.0,4.0,2.0,3.0,2.0,14/11/2024 10:28:10
+Man,20-29,Latvia,Professional,Beginner,Yes,4.0,3.0,4.0,5.0,5.0,3.0,2.0,3.0,4.0,14/11/2024 10:28:14
+Man,30-39,India,Professional,Advanced,Yes,3.0,4.0,4.0,3.0,4.0,3.0,2.0,3.0,2.0,14/11/2024 10:33:30
+Man,50-59,France,Hobbyist,Beginner,Yes,2.0,2.0,4.0,4.0,2.0,2.0,2.0,3.0,,14/11/2024 10:38:30
+Man,30-39,United Kingdom,Professional,Intermediate,Yes,4.0,5.0,4.0,4.0,5.0,4.0,2.0,5.0,5.0,14/11/2024 10:47:29
+Man,40-49,Australia,Professional,Advanced,Yes,2.0,4.0,3.0,5.0,4.0,2.0,3.0,3.0,4.0,14/11/2024 10:59:06
+Man,40-49,Bulgaria,Professional,Advanced,Yes,2.0,4.0,4.0,5.0,3.0,3.0,2.0,3.0,4.0,14/11/2024 10:59:31
+Man,30-39,Armenia,Professional,Intermediate,Yes,4.0,3.0,3.0,2.0,4.0,3.0,3.0,3.0,3.0,14/11/2024 11:02:14
+Man,40-49,France,Researcher,Intermediate,Yes,4.0,4.0,4.0,2.0,5.0,2.0,3.0,2.0,4.0,14/11/2024 11:21:23
+Man,30-39,Germany,Professional,Beginner,No,,,,,,,,,,14/11/2024 11:25:06
+Man,30-39,Germany,Professional,Advanced,Yes,1.0,4.0,4.0,3.0,5.0,3.0,3.0,1.0,3.0,14/11/2024 11:30:20
+Woman,40-49,Ghana,Hobbyist,Intermediate,No,,,,,,,,,,14/11/2024 11:37:05
+Man,40-49,Germany,Professional,Intermediate,Yes,3.0,2.0,2.0,4.0,3.0,2.0,3.0,2.0,3.0,14/11/2024 11:38:38
+Man,40-49,Spain,Professional,Advanced,Yes,5.0,4.0,4.0,4.0,5.0,3.0,2.0,2.0,4.0,14/11/2024 11:49:35
+Man,40-49,Belgium,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,4.0,4.0,2.0,3.0,4.0,14/11/2024 11:54:14
+Man,30-39,Spain,Professional,Advanced,Yes,4.0,1.0,2.0,4.0,2.0,1.0,5.0,1.0,1.0,14/11/2024 12:07:53
+Man,30-39,Sweden,Professional,Intermediate,Yes,3.0,3.0,3.0,3.0,4.0,3.0,3.0,3.0,3.0,14/11/2024 12:09:54
+Man,50-59,Brazil,Professional,Intermediate,No,,,,,,,,,,14/11/2024 12:21:11
+Man,50-59,United Kingdom,Professional,Advanced,Yes,3.0,3.0,3.0,2.0,4.0,3.0,3.0,2.0,3.0,14/11/2024 12:24:50
+Man,30-39,Norway,Professional,Intermediate,Yes,3.0,3.0,4.0,4.0,3.0,3.0,3.0,2.0,3.0,14/11/2024 12:25:53
+Man,40-49,United States,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,5.0,4.0,1.0,3.0,3.0,14/11/2024 12:30:22
+Man,30-39,Canada,Professional,Advanced,Yes,2.0,4.0,4.0,5.0,2.0,1.0,5.0,1.0,3.0,14/11/2024 12:40:22
+Man,60-69,United Kingdom,Professional,Advanced,No,,,,,,,,,,14/11/2024 13:02:58
+Man,30-39,India,Professional,Advanced,Yes,2.0,3.0,4.0,5.0,4.0,2.0,4.0,3.0,3.0,14/11/2024 13:12:00
+Man,40-49,Romania,Professional,Beginner,Yes,3.0,4.0,3.0,4.0,3.0,4.0,3.0,2.0,2.0,14/11/2024 13:12:42
+Man,40-49,Slovakia,Professional,Intermediate,Yes,4.0,4.0,4.0,2.0,4.0,4.0,1.0,4.0,3.0,14/11/2024 13:17:19
+Man,40-49,United Kingdom,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,4.0,4.0,2.0,4.0,4.0,14/11/2024 13:17:57
+Man,40-49,Sweden,Professional,Advanced,No,,,,,,,,,,14/11/2024 13:26:00
+Man,30-39,Germany,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,4.0,2.0,14/11/2024 13:29:38
+Man,50-59,United Kingdom,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,4.0,14/11/2024 13:52:11
+Man,60-69,United States,Hobbyist,Intermediate,Yes,4.0,3.0,3.0,4.0,4.0,3.0,3.0,1.0,,14/11/2024 14:14:49
+Man,50-59,United States,Professional,Advanced,Yes,3.0,3.0,3.0,3.0,3.0,2.0,3.0,2.0,2.0,14/11/2024 14:18:04
+Man,40-49,Israel,Professional,Advanced,Yes,4.0,4.0,3.0,2.0,5.0,4.0,3.0,4.0,3.0,14/11/2024 14:23:09
+Man,30-39,United States,Professional,Intermediate,Yes,2.0,2.0,1.0,2.0,4.0,1.0,3.0,2.0,2.0,14/11/2024 14:27:47
+Man,40-49,Netherlands,Professional,Intermediate,No,,,,,,,,,,14/11/2024 14:33:55
+Man,50-59,Latvia,Professional,Beginner,Yes,2.0,3.0,3.0,4.0,3.0,3.0,3.0,3.0,4.0,14/11/2024 15:15:07
+Man,30-39,United States,Professional,Advanced,Yes,2.0,3.0,3.0,1.0,3.0,4.0,1.0,2.0,1.0,14/11/2024 15:37:47
+Man,40-49,Pakistan,Professional,Advanced,Yes,2.0,4.0,4.0,5.0,5.0,4.0,2.0,2.0,4.0,14/11/2024 15:40:04
+Man,30-39,United States,Professional,Advanced,Yes,3.0,3.0,3.0,4.0,4.0,2.0,3.0,3.0,3.0,14/11/2024 15:43:54
+Man,40-49,United Kingdom,Professional,Intermediate,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,3.0,4.0,14/11/2024 16:22:26
+Man,30-39,Spain,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,5.0,2.0,3.0,2.0,3.0,14/11/2024 16:32:36
+Man,40-49,Canada,Professional,Intermediate,No,,,,,,,,,,14/11/2024 16:33:09
+Man,40-49,Sweden,Professional,Beginner,Yes,5.0,5.0,5.0,4.0,5.0,3.0,1.0,4.0,3.0,14/11/2024 16:58:05
+Man,40-49,United States,Professional,Advanced,Yes,2.0,3.0,3.0,2.0,4.0,2.0,2.0,2.0,2.0,14/11/2024 17:06:57
+Man,30-39,United States,Professional,Intermediate,No,,,,,,,,,,14/11/2024 17:25:10
+Man,30-39,Spain,Professional,Advanced,Yes,3.0,1.0,2.0,4.0,1.0,1.0,4.0,1.0,1.0,14/11/2024 17:35:08
+Man,30-39,United Kingdom,Professional,Intermediate,Yes,4.0,5.0,5.0,5.0,5.0,3.0,1.0,3.0,4.0,14/11/2024 17:52:22
+Man,30-39,Spain,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,3.0,4.0,1.0,4.0,3.0,14/11/2024 17:55:27
+Woman,30-39,United Kingdom,Professional,Beginner,Yes,4.0,4.0,4.0,5.0,5.0,4.0,4.0,2.0,3.0,14/11/2024 18:15:10
+Woman,40-49,United States,Professional,Advanced,No,,,,,,,,,,14/11/2024 18:16:57
+Man,50-59,Sweden,Professional,Beginner,No,,,,,,,,,,14/11/2024 18:53:47
+Man,30-39,Germany,Professional,Intermediate,No,,,,,,,,,,14/11/2024 19:06:43
+Woman,50-59,United States,Hobbyist,Beginner,Yes,4.0,4.0,3.0,5.0,4.0,2.0,4.0,3.0,3.0,14/11/2024 19:11:14
+Man,30-39,Canada,Professional,Beginner,Yes,4.0,4.0,4.0,3.0,4.0,2.0,2.0,3.0,3.0,14/11/2024 19:14:43
+Man,40-49,Netherlands,Professional,Beginner,No,,,,,,,,,,14/11/2024 19:25:45
+Man,40-49,Switzerland,Professional,Advanced,Yes,5.0,4.0,4.0,4.0,2.0,3.0,3.0,3.0,3.0,14/11/2024 19:30:58
+Man,50-59,Germany,Professional,Beginner,Yes,4.0,3.0,4.0,5.0,5.0,3.0,2.0,3.0,3.0,14/11/2024 19:58:23
+Man,50-59,Canada,Professional,Beginner,Yes,2.0,3.0,3.0,4.0,5.0,3.0,2.0,3.0,2.0,14/11/2024 20:03:45
+Man,40-49,Netherlands,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,5.0,3.0,3.0,3.0,4.0,14/11/2024 20:12:50
+Man,30-39,France,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,5.0,3.0,3.0,4.0,4.0,14/11/2024 20:13:39
+Man,50-59,Czech Republic,Professional,Advanced,No,,,,,,,,,,14/11/2024 20:26:49
+Man,40-49,United States,Student,Beginner,Yes,4.0,3.0,3.0,4.0,2.0,4.0,4.0,3.0,3.0,14/11/2024 20:54:11
+Man,50-59,Italy,Professional,Advanced,Yes,3.0,4.0,3.0,4.0,4.0,2.0,3.0,3.0,3.0,14/11/2024 20:55:41
+Man,Prefer not to disclose,Denmark,Professional,Beginner,No,,,,,,,,,,14/11/2024 21:00:55
+Man,40-49,Prefer not to disclose,Professional,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,3.0,4.0,14/11/2024 21:05:11
+Man,30-39,Spain,Professional,Intermediate,Yes,4.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,14/11/2024 21:11:15
+Man,40-49,Switzerland,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,4.0,2.0,4.0,3.0,4.0,14/11/2024 21:14:11
+Man,30-39,Poland,Professional,Advanced,Yes,4.0,4.0,5.0,4.0,3.0,4.0,3.0,4.0,4.0,14/11/2024 21:22:12
+Woman,30-39,Netherlands,Professional,Intermediate,Yes,4.0,4.0,4.0,5.0,5.0,3.0,3.0,2.0,2.0,14/11/2024 21:29:55
+Man,50-59,Sweden,Hobbyist,Intermediate,Yes,4.0,4.0,4.0,5.0,5.0,2.0,2.0,3.0,4.0,14/11/2024 21:36:29
+Man,30-39,Germany,Researcher,Beginner,No,,,,,,,,,,14/11/2024 21:38:39
+Man,30-39,United Kingdom,Professional,Advanced,Yes,3.0,3.0,2.0,4.0,4.0,3.0,3.0,5.0,4.0,14/11/2024 21:47:40
+Man,20-29,Israel,Professional,Intermediate,No,,,,,,,,,,14/11/2024 21:59:34
+Man,40-49,United States,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,3.0,14/11/2024 22:02:55
+Man,30-39,United States,Professional,Intermediate,No,,,,,,,,,,14/11/2024 22:19:07
+Man,40-49,United Kingdom,Professional,Beginner,Yes,1.0,3.0,4.0,4.0,3.0,1.0,4.0,2.0,3.0,15/11/2024 00:21:23
+Man,30-39,United Kingdom,Professional,Intermediate,No,,,,,,,,,,15/11/2024 00:44:27
+Man,40-49,United States,Professional,Advanced,No,,,,,,,,,,15/11/2024 01:22:39
+Man,40-49,United States,Professional,Intermediate,No,,,,,,,,,,15/11/2024 01:47:27
+Man,50-59,Ireland,Professional,Intermediate,Yes,5.0,4.0,4.0,4.0,5.0,5.0,2.0,3.0,3.0,15/11/2024 02:40:11
+Man,40-49,Australia,Professional,Advanced,Yes,5.0,5.0,5.0,4.0,5.0,5.0,2.0,5.0,5.0,15/11/2024 02:52:40
+Man,30-39,India,Professional,Advanced,Yes,2.0,3.0,3.0,5.0,4.0,4.0,2.0,,3.0,15/11/2024 03:18:36
+Man,30-39,United States,Professional,Advanced,Yes,2.0,2.0,3.0,5.0,5.0,2.0,4.0,3.0,3.0,15/11/2024 03:55:47
+Man,40-49,Thailand,Professional,Intermediate,Yes,3.0,4.0,4.0,2.0,4.0,3.0,3.0,1.0,2.0,15/11/2024 04:58:31
+Man,30-39,Russian Federation,Professional,Beginner,Yes,4.0,4.0,5.0,2.0,4.0,3.0,3.0,3.0,5.0,15/11/2024 06:00:57
+Man,50-59,United States,Professional,Advanced,Yes,4.0,4.0,3.0,4.0,3.0,4.0,2.0,2.0,4.0,15/11/2024 06:03:58
+Man,40-49,Germany,Professional,Beginner,Yes,2.0,4.0,4.0,5.0,4.0,4.0,1.0,4.0,4.0,15/11/2024 06:15:20
+Man,30-39,Thailand,Professional,Advanced,Yes,3.0,4.0,5.0,5.0,2.0,5.0,1.0,4.0,3.0,15/11/2024 06:39:26
+Man,30-39,Hungary,Professional,Beginner,Yes,4.0,4.0,3.0,4.0,2.0,4.0,3.0,4.0,4.0,15/11/2024 07:29:24
+Man,60-69,Italy,Professional,Advanced,Yes,4.0,4.0,2.0,4.0,2.0,4.0,2.0,4.0,2.0,15/11/2024 08:01:27
+Man,40-49,United Kingdom,Professional,Beginner,Yes,4.0,4.0,4.0,5.0,5.0,4.0,3.0,4.0,5.0,15/11/2024 08:51:49
+Man,40-49,United States,Professional,Intermediate,Yes,4.0,5.0,4.0,4.0,5.0,2.0,4.0,2.0,3.0,15/11/2024 09:37:43
+Man,30-39,United Kingdom,Professional,Beginner,Yes,4.0,3.0,4.0,4.0,5.0,2.0,3.0,1.0,4.0,15/11/2024 09:57:27
+Man,40-49,Portugal,Professional,Advanced,Yes,3.0,2.0,2.0,1.0,4.0,3.0,3.0,2.0,2.0,15/11/2024 10:05:24
+Woman,40-49,Hungary,Professional,Intermediate,Yes,5.0,5.0,4.0,3.0,,4.0,2.0,3.0,3.0,15/11/2024 10:12:19
+Man,20-29,Germany,Professional,Intermediate,Yes,5.0,4.0,4.0,5.0,5.0,3.0,2.0,5.0,5.0,15/11/2024 10:22:59
+Man,60-69,Ireland {Republic},Professional,Advanced,Yes,2.0,3.0,3.0,2.0,4.0,2.0,4.0,3.0,2.0,15/11/2024 10:45:53
+Man,40-49,Germany,Professional,Advanced,Yes,2.0,3.0,4.0,2.0,5.0,2.0,4.0,2.0,4.0,15/11/2024 11:41:26
+Man,30-39,United Kingdom,Professional,Beginner,No,,,,,,,,,,15/11/2024 11:51:19
+Man,40-49,Netherlands,Professional,Beginner,No,,,,,,,,,,15/11/2024 11:56:27
+Man,40-49,Germany,Professional,Advanced,Yes,4.0,3.0,3.0,4.0,5.0,1.0,4.0,1.0,1.0,15/11/2024 12:15:32
+Man,30-39,Serbia,Professional,Advanced,Yes,1.0,2.0,2.0,3.0,4.0,1.0,5.0,2.0,2.0,15/11/2024 13:09:30
+Man,30-39,Sweden,Professional,Beginner,Yes,4.0,4.0,4.0,5.0,2.0,3.0,2.0,3.0,4.0,15/11/2024 13:11:30
+Man,30-39,Bulgaria,Professional,Beginner,No,,,,,,,,,,15/11/2024 13:58:12
+Man,30-39,United Kingdom,Professional,Beginner,Yes,4.0,3.0,4.0,5.0,4.0,2.0,3.0,3.0,4.0,15/11/2024 14:22:32
+Man,30-39,Spain,Hobbyist,Intermediate,Yes,4.0,2.0,3.0,4.0,2.0,2.0,4.0,2.0,1.0,15/11/2024 14:25:13
+Man,20-29,Bulgaria,Professional,Beginner,Yes,4.0,3.0,4.0,3.0,5.0,1.0,4.0,,2.0,15/11/2024 14:47:12
+Man,30-39,Hungary,Professional,Beginner,Yes,3.0,3.0,4.0,5.0,3.0,3.0,2.0,2.0,4.0,15/11/2024 14:48:35
+Man,40-49,Canada,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,15/11/2024 14:48:50
+Man,40-49,Portugal,Hobbyist,Beginner,Yes,4.0,4.0,5.0,5.0,5.0,5.0,2.0,4.0,5.0,15/11/2024 14:52:08
+Woman,40-49,Denmark,Professional,Advanced,No,,,,,,,,,,15/11/2024 15:34:17
+Man,20-29,Malaysia,Professional,Advanced,Yes,4.0,4.0,3.0,5.0,5.0,2.0,3.0,3.0,5.0,15/11/2024 15:49:17
+Man,40-49,South Africa,Professional,Advanced,Yes,2.0,3.0,3.0,2.0,4.0,4.0,4.0,2.0,3.0,15/11/2024 16:01:47
+Man,30-39,Netherlands,Professional,Advanced,Yes,3.0,2.0,2.0,3.0,4.0,2.0,3.0,1.0,3.0,15/11/2024 16:09:10
+Man,20-29,Brazil,Professional,Intermediate,Yes,4.0,3.0,4.0,1.0,5.0,2.0,4.0,2.0,4.0,15/11/2024 16:16:47
+Man,30-39,Hungary,Professional,Intermediate,No,,,,,,,,,,15/11/2024 16:43:48
+Man,20-29,Italy,Professional,Intermediate,Yes,4.0,4.0,4.0,4.0,5.0,2.0,3.0,2.0,5.0,15/11/2024 17:26:58
+Man,50-59,Italy,Professional,Advanced,No,,,,,,,,,,15/11/2024 17:30:52
+Man,30-39,Mexico,Professional,Beginner,Yes,2.0,3.0,3.0,4.0,3.0,3.0,3.0,3.0,4.0,15/11/2024 17:53:08
+Man,40-49,Chile,Professional,Intermediate,Yes,3.0,3.0,3.0,5.0,4.0,4.0,2.0,1.0,3.0,15/11/2024 17:55:18
+Man,40-49,Canada,Researcher,Intermediate,No,,,,,,,,,,15/11/2024 18:07:50
+Man,30-39,United States,Professional,Beginner,Yes,4.0,4.0,4.0,4.0,5.0,5.0,3.0,1.0,2.0,15/11/2024 18:14:23
+Man,40-49,Ukraine,Professional,Beginner,Yes,3.0,4.0,4.0,3.0,4.0,3.0,2.0,3.0,4.0,15/11/2024 18:38:38
+Man,20-29,Bulgaria,Professional,Advanced,No,,,,,,,,,,15/11/2024 19:21:01
+Man,30-39,Switzerland,Professional,Intermediate,No,,,,,,,,,,15/11/2024 19:27:46
+Man,40-49,Australia,Professional,Intermediate,Yes,3.0,3.0,3.0,3.0,5.0,3.0,3.0,2.0,3.0,15/11/2024 21:08:17
+Man,40-49,United States,Professional,Advanced,Yes,1.0,2.0,3.0,2.0,4.0,2.0,4.0,2.0,2.0,15/11/2024 21:19:25
+Man,40-49,United Kingdom,Professional,Advanced,Yes,1.0,2.0,3.0,2.0,3.0,3.0,3.0,1.0,2.0,15/11/2024 21:25:42
+Man,Prefer not to disclose,Canada,Professional,Intermediate,No,,,,,,,,,,15/11/2024 21:32:00
+Man,30-39,Netherlands,Professional,Advanced,Yes,3.0,3.0,4.0,2.0,4.0,1.0,4.0,2.0,3.0,15/11/2024 22:21:21
+Man,50-59,United States,Professional,Intermediate,No,,,,,,,,,,15/11/2024 22:52:36
+Man,30-39,United States,Professional,Intermediate,No,,,,,,,,,,15/11/2024 23:09:04
+Man,50-59,United States,Professional,Beginner,No,,,,,,,,,,16/11/2024 01:49:51
+Man,30-39,Australia,Professional,Advanced,No,,,,,,,,,,16/11/2024 02:13:04
+Man,40-49,France,Professional,Advanced,Yes,4.0,3.0,3.0,4.0,4.0,3.0,4.0,3.0,3.0,16/11/2024 03:52:53
+Man,60-69,Sweden,Hobbyist,Intermediate,Yes,4.0,3.0,4.0,4.0,3.0,4.0,3.0,2.0,3.0,16/11/2024 06:28:12
+Man,50-59,Poland,Professional,Advanced,Yes,4.0,3.0,3.0,4.0,4.0,4.0,3.0,3.0,4.0,16/11/2024 07:12:12
+Man,40-49,Singapore,Student,Beginner,Yes,3.0,4.0,4.0,4.0,4.0,4.0,2.0,4.0,4.0,16/11/2024 07:25:46
+Man,30-39,South Africa,Professional,Beginner,Yes,5.0,5.0,5.0,3.0,5.0,5.0,2.0,5.0,5.0,16/11/2024 07:35:18
+Man,40-49,Sweden,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,4.0,3.0,2.0,3.0,3.0,16/11/2024 09:20:38
+Man,40-49,Ireland,Professional,Advanced,No,,,,,,,,,,16/11/2024 10:52:13
+Man,30-39,Germany,Professional,Advanced,Yes,5.0,4.0,4.0,2.0,5.0,3.0,2.0,2.0,3.0,16/11/2024 11:22:41
+Man,50-59,Australia,Professional,Intermediate,No,,,,,,,,,,16/11/2024 11:54:43
+Man,20-29,United Kingdom,Professional,Intermediate,Yes,3.0,4.0,3.0,5.0,2.0,2.0,3.0,2.0,1.0,16/11/2024 12:37:45
+Man,40-49,Germany,Professional,Advanced,Yes,3.0,2.0,3.0,2.0,4.0,3.0,3.0,2.0,2.0,16/11/2024 13:02:32
+Man,40-49,India,Professional,Intermediate,No,,,,,,,,,,16/11/2024 15:30:10
+Man,40-49,Israel,Hobbyist,Advanced,Yes,4.0,5.0,3.0,4.0,5.0,3.0,2.0,3.0,3.0,16/11/2024 17:04:13
+Man,40-49,United Kingdom,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,5.0,4.0,1.0,3.0,3.0,16/11/2024 17:52:18
+Man,40-49,United States,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,5.0,4.0,1.0,3.0,3.0,16/11/2024 18:07:09
+Woman,20-29,United Kingdom,Student,Beginner,Yes,5.0,5.0,4.0,5.0,5.0,4.0,2.0,3.0,4.0,16/11/2024 18:34:05
+Man,30-39,United States,Professional,Beginner,No,,,,,,,,,,17/11/2024 00:20:25
+Man,40-49,Italy,Professional,Advanced,Yes,5.0,4.0,4.0,3.0,5.0,4.0,2.0,3.0,5.0,17/11/2024 01:13:18
+Man,20-29,Pakistan,Professional,Advanced,No,,,,,,,,,,17/11/2024 08:48:06
+Man,40-49,Switzerland,Professional,Intermediate,Yes,5.0,4.0,3.0,4.0,3.0,2.0,3.0,2.0,2.0,17/11/2024 10:55:37
+Man,40-49,Germany,Professional,Intermediate,No,,,,,,,,,,17/11/2024 17:14:28
+Man,60-69,United States,Professional,Intermediate,Yes,1.0,3.0,3.0,4.0,4.0,3.0,3.0,2.0,3.0,17/11/2024 18:07:45
+Man,30-39,Sweden,Professional,Advanced,No,,,,,,,,,,17/11/2024 20:54:06
+Man,20-29,United States,Professional,Intermediate,Yes,3.0,3.0,3.0,4.0,3.0,3.0,4.0,3.0,3.0,18/11/2024 00:37:44
+Woman,30-39,Denmark,Professional,Beginner,Yes,4.0,3.0,4.0,5.0,2.0,2.0,1.0,2.0,3.0,18/11/2024 08:10:38
+Man,30-39,Germany,Professional,Intermediate,Yes,1.0,2.0,2.0,4.0,4.0,3.0,4.0,1.0,4.0,18/11/2024 08:24:41
+Man,40-49,Lithuania,Professional,Advanced,No,,,,,,,,,,18/11/2024 08:57:09
+Woman,30-39,India,Professional,Advanced,No,,,,,,,,,,18/11/2024 10:06:20
+Woman,30-39,India,Professional,Advanced,Yes,4.0,4.0,3.0,2.0,4.0,2.0,4.0,2.0,3.0,18/11/2024 10:20:00
+Man,30-39,Germany,Professional,Intermediate,Yes,2.0,3.0,4.0,4.0,4.0,2.0,1.0,1.0,4.0,18/11/2024 14:32:49
+Man,40-49,Spain,Professional,Advanced,Yes,2.0,1.0,2.0,3.0,2.0,1.0,4.0,1.0,1.0,18/11/2024 14:45:05
+Man,30-39,Italy,Professional,Intermediate,Yes,4.0,3.0,3.0,5.0,4.0,1.0,4.0,3.0,4.0,18/11/2024 16:38:01
+Man,20-29,Brazil,Professional,Intermediate,Yes,1.0,1.0,4.0,3.0,4.0,2.0,5.0,2.0,1.0,18/11/2024 17:23:54
+Man,40-49,Hungary,Professional,Beginner,No,,,,,,,,,,18/11/2024 20:58:43
+Man,20-29,United States,Professional,Intermediate,Yes,4.0,3.0,3.0,5.0,4.0,3.0,3.0,3.0,3.0,18/11/2024 21:56:28
+Man,40-49,United States,Hobbyist,Beginner,Yes,4.0,4.0,5.0,4.0,5.0,3.0,2.0,2.0,2.0,18/11/2024 22:37:24
+Man,40-49,United States,Professional,Intermediate,No,,,,,,,,,,18/11/2024 23:03:26
+Man,30-39,France,Professional,Intermediate,No,,,,,,,,,,19/11/2024 08:33:38
+Man,40-49,Romania,Professional,Advanced,Yes,1.0,2.0,2.0,3.0,4.0,2.0,3.0,2.0,2.0,19/11/2024 10:08:25
+Man,30-39,India,Professional,Advanced,No,,,,,,,,,,19/11/2024 14:12:58
+Man,50-59,India,Professional,Advanced,No,,,,,,,,,,19/11/2024 16:52:50
+Man,30-39,United States,Professional,Intermediate,Yes,4.0,3.0,3.0,3.0,4.0,3.0,3.0,2.0,3.0,19/11/2024 16:56:17
+Man,40-49,Australia,Professional,Advanced,Yes,1.0,4.0,4.0,4.0,5.0,3.0,1.0,3.0,2.0,19/11/2024 21:15:32
+Man,40-49,Germany,Prefer not to disclose,Beginner,Yes,2.0,3.0,4.0,2.0,3.0,4.0,3.0,2.0,3.0,19/11/2024 21:18:50
+Man,40-49,United Kingdom,Professional,Beginner,No,,,,,,,,,,20/11/2024 01:26:15
+Man,40-49,Spain,Professional,Advanced,Yes,5.0,3.0,4.0,2.0,4.0,4.0,2.0,4.0,2.0,20/11/2024 02:22:07
+Man,40-49,United Kingdom,Hobbyist,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,5.0,20/11/2024 10:55:37
+Man,40-49,United Kingdom,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,4.0,5.0,20/11/2024 12:21:12
+Man,50-59,Germany,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,5.0,3.0,4.0,3.0,4.0,20/11/2024 12:29:58
+Man,40-49,South Africa,Professional,Beginner,No,,,,,,,,,,21/11/2024 08:19:47
+Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Professional,Intermediate,Yes,2.0,3.0,2.0,2.0,4.0,1.0,4.0,3.0,2.0,21/11/2024 12:37:46
+Man,20-29,United Kingdom,Professional,Advanced,Yes,2.0,4.0,4.0,4.0,5.0,3.0,2.0,2.0,3.0,21/11/2024 12:41:44
+Man,40-49,Sweden,Professional,Advanced,Yes,3.0,5.0,5.0,3.0,5.0,5.0,2.0,3.0,3.0,21/11/2024 21:30:59
+Man,50-59,Canada,Professional,Advanced,Yes,3.0,3.0,5.0,1.0,4.0,2.0,3.0,1.0,2.0,22/11/2024 01:15:02
+Man,50-59,United Kingdom,Professional,Advanced,No,,,,,,,,,,22/11/2024 07:54:50
+Woman,30-39,Austria,Hobbyist,Intermediate,Yes,4.0,4.0,3.0,4.0,5.0,4.0,2.0,4.0,4.0,22/11/2024 10:06:45
+Man,20-29,Australia,Professional,Advanced,Yes,2.0,4.0,4.0,5.0,5.0,4.0,3.0,2.0,2.0,22/11/2024 10:24:48
+Man,50-59,Spain,Professional,Advanced,Yes,1.0,3.0,4.0,2.0,5.0,2.0,4.0,3.0,2.0,22/11/2024 12:59:23
+Man,50-59,United States,Professional,Beginner,Yes,3.0,4.0,4.0,4.0,2.0,2.0,3.0,4.0,4.0,22/11/2024 14:20:39
+Man,40-49,Germany,Professional,Intermediate,Yes,2.0,3.0,4.0,4.0,3.0,3.0,3.0,2.0,2.0,22/11/2024 22:03:44
+Man,30-39,Portugal,Student,Beginner,Yes,4.0,4.0,4.0,,4.0,4.0,4.0,4.0,4.0,23/11/2024 10:37:40
+Man,30-39,Bulgaria,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,5.0,5.0,1.0,5.0,5.0,23/11/2024 19:12:42
+Man,60-69,United States,Professional,Intermediate,No,,,,,,,,,,23/11/2024 21:12:03
+Man,30-39,Australia,Professional,Advanced,Yes,4.0,3.0,4.0,2.0,4.0,2.0,4.0,1.0,3.0,23/11/2024 22:14:17
+Man,40-49,Mexico,Professional,Advanced,Yes,3.0,4.0,4.0,3.0,2.0,3.0,3.0,3.0,3.0,24/11/2024 03:26:37
+Man,20-29,Germany,Hobbyist,Beginner,Yes,3.0,3.0,2.0,2.0,4.0,3.0,3.0,2.0,2.0,24/11/2024 14:48:14
+Man,30-39,Canada,Professional,Advanced,Yes,5.0,5.0,5.0,5.0,5.0,4.0,1.0,3.0,4.0,24/11/2024 18:44:55
+Man,30-39,United Kingdom,Professional,Beginner,No,,,,,,,,,,25/11/2024 10:31:29
+Man,30-39,South Africa,Professional,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,2.0,3.0,5.0,,26/11/2024 07:23:29
+Man,50-59,South Africa,Professional,Advanced,No,,,,,,,,,,26/11/2024 11:39:40
+Man,30-39,South Africa,Researcher,Intermediate,Yes,5.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,3.0,26/11/2024 13:39:38
+Man,30-39,Brazil,Professional,Intermediate,No,,,,,,,,,,26/11/2024 14:54:32
+Man,40-49,United Kingdom,Professional,Advanced,No,,,,,,,,,,26/11/2024 22:05:16
+Man,50-59,Australia,Professional,Advanced,Yes,3.0,3.0,3.0,4.0,4.0,3.0,2.0,3.0,3.0,26/11/2024 23:32:53
+Man,60-69,Sweden,Professional,Intermediate,Yes,4.0,3.0,3.0,4.0,3.0,2.0,3.0,3.0,3.0,27/11/2024 10:53:21
+Man,20-29,Switzerland,Professional,Intermediate,No,,,,,,,,,,27/11/2024 12:04:29
+Man,60-69,Ireland,Professional,Beginner,No,,,,,,,,,,27/11/2024 16:31:44
+Woman,30-39,India,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,4.0,2.0,3.0,5.0,28/11/2024 03:19:10
+Man,30-39,Germany,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,3.0,28/11/2024 08:25:15
+Male.,50-59,United Kingdom,Professional,Beginner,Yes,3.0,4.0,4.0,5.0,2.0,2.0,3.0,3.0,4.0,28/11/2024 10:55:45
+Man,20-29,Bosnia Herzegovina,Hobbyist,Intermediate,Yes,3.0,4.0,5.0,4.0,5.0,2.0,4.0,4.0,4.0,28/11/2024 14:21:22
+Man,20-29,Germany,Professional,Advanced,Yes,2.0,2.0,3.0,4.0,4.0,2.0,4.0,2.0,3.0,28/11/2024 20:45:46
+Prefer not to disclose,50-59,United Kingdom,Professional,Beginner,No,,,,,,,,,,28/11/2024 23:36:20
+Woman,40-49,United States,Professional,Intermediate,No,,,,,,,,,,29/11/2024 06:02:58
+Man,40-49,United Kingdom,Professional,Advanced,Yes,5.0,3.0,3.0,4.0,4.0,3.0,4.0,1.0,3.0,29/11/2024 12:48:02
+Man,40-49,Argentina,Professional,Intermediate,Yes,3.0,1.0,2.0,2.0,4.0,1.0,3.0,1.0,4.0,01/12/2024 5:49:11
+Man,30-39,Singapore,Professional,Intermediate,Yes,4.0,5.0,5.0,5.0,5.0,5.0,2.0,5.0,5.0,01/12/2024 16:39:19
+Man,30-39,United Kingdom,Professional,Beginner,Yes,5.0,4.0,3.0,4.0,4.0,1.0,3.0,2.0,4.0,01/12/2024 18:24:32
+Man,20-29,Brazil,Professional,Intermediate,Yes,2.0,,2.0,4.0,4.0,3.0,2.0,3.0,3.0,01/12/2024 20:41:56
+Man,30-39,Canada,Professional,Advanced,Yes,4.0,3.0,4.0,5.0,5.0,3.0,4.0,1.0,1.0,02/12/2024 4:59:42
+Man,20-29,Germany,Professional,Intermediate,Yes,4.0,3.0,4.0,4.0,4.0,2.0,,3.0,3.0,02/12/2024 14:51:43
+Man,40-49,Australia,Professional,Intermediate,Yes,3.0,4.0,4.0,5.0,5.0,5.0,2.0,4.0,5.0,03/12/2024 7:47:40
+Man,30-39,Netherlands,Professional,Intermediate,Yes,4.0,1.0,2.0,4.0,3.0,1.0,4.0,1.0,1.0,03/12/2024 16:48:20
+Man,30-39,United Kingdom,Professional,Beginner,Yes,4.0,4.0,4.0,4.0,5.0,3.0,2.0,3.0,4.0,03/12/2024 22:40:45
+Man,30-39,Sweden,Student,Intermediate,Yes,4.0,5.0,5.0,5.0,3.0,3.0,2.0,3.0,4.0,04/12/2024 13:07:10
+Man,30-39,United States,Professional,Advanced,Yes,2.0,3.0,3.0,3.0,4.0,3.0,4.0,3.0,3.0,04/12/2024 13:20:14
+Man,30-39,Brazil,Professional,Advanced,Yes,4.0,4.0,4.0,5.0,1.0,3.0,1.0,3.0,5.0,04/12/2024 18:27:57
+Man,40-49,Russian Federation,Professional,Intermediate,No,,,,,,,,,,05/12/2024 9:54:56
+Man,30-39,India,Professional,Advanced,Yes,4.0,4.0,3.0,5.0,5.0,3.0,2.0,3.0,4.0,06/12/2024 13:11:02
+Man,40-49,Netherlands,Professional,Advanced,Yes,1.0,2.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0,06/12/2024 15:36:14
+Man,50-59,Netherlands,Professional,Advanced,Yes,4.0,5.0,5.0,5.0,4.0,2.0,2.0,3.0,3.0,06/12/2024 16:13:15
+Man,30-39,India,Professional,Intermediate,Yes,3.0,,4.0,4.0,4.0,4.0,4.0,4.0,4.0,07/12/2024 5:46:55
+Man,20-29,Spain,Professional,Intermediate,Yes,5.0,4.0,4.0,5.0,5.0,4.0,3.0,4.0,3.0,08/12/2024 13:39:55
+Man,30-39,United States,Hobbyist,Intermediate,Yes,1.0,3.0,3.0,2.0,3.0,3.0,4.0,2.0,1.0,09/12/2024 12:31:49
+Prefer not to disclose,30-39,United States,Professional,Advanced,Yes,2.0,2.0,2.0,2.0,2.0,2.0,4.0,2.0,2.0,10/12/2024 5:18:51
+Man,20-29,Switzerland,Professional,Advanced,Yes,5.0,2.0,3.0,2.0,3.0,2.0,4.0,3.0,3.0,10/12/2024 7:03:11
+Man,40-49,United Kingdom,Professional,Advanced,Yes,2.0,3.0,3.0,4.0,4.0,1.0,5.0,2.0,2.0,11/12/2024 15:52:39
+Man,20-29,Kenya,Professional,Intermediate,Yes,1.0,1.0,1.0,4.0,3.0,1.0,2.0,1.0,1.0,13/12/2024 16:39:50
+Man,40-49,Netherlands,Professional,Advanced,Yes,5.0,5.0,4.0,5.0,5.0,5.0,4.0,3.0,2.0,15/12/2024 11:36:53
+Man,40-49,United Kingdom,Professional,Advanced,Yes,4.0,4.0,4.0,4.0,3.0,2.0,4.0,3.0,2.0,17/12/2024 16:05:41
+Man,Prefer not to disclose,Prefer not to disclose,Professional,Intermediate,Yes,3.0,3.0,3.0,4.0,3.0,1.0,3.0,2.0,3.0,17/12/2024 18:35:45
+Woman,20-29,United States,Student,Beginner,Yes,4.0,4.0,4.0,5.0,3.0,2.0,3.0,2.0,3.0,21/12/2024 17:08:37
+Man,30-39,Armenia,Professional,Intermediate,Yes,3.0,3.0,3.0,2.0,4.0,2.0,4.0,1.0,2.0,25/12/2024 05:45:42
+Man,60-69,United States,Professional,Advanced,Yes,4.0,5.0,5.0,5.0,3.0,5.0,2.0,5.0,5.0,27/12/2024 20:44:51
+Man,60-69,United States,Professional,Advanced,Yes,4.0,5.0,5.0,5.0,3.0,5.0,4.0,5.0,5.0,27/12/2024 21:20:11
+Man,60-69,Sweden,Professional,Intermediate,Yes,4.0,3.0,4.0,5.0,5.0,3.0,3.0,4.0,3.0,02/01/2025 15:27:51
+Woman,30-39,Sweden,Professional,Beginner,Yes,3.0,2.0,2.0,2.0,2.0,4.0,3.0,1.0,3.0,03/01/2025 11:40:01
+Man,40-49,Greece,Professional,Advanced,Yes,4.0,,3.0,4.0,4.0,4.0,3.0,3.0,3.0,03/01/2025 12:42:21
+Man,30-39,Germany,Professional,Advanced,No,,,,,,,,,,03/01/2025 13:09:13
+Man,50-59,Sweden,Professional,Intermediate,Yes,3.0,3.0,4.0,3.0,4.0,3.0,2.0,3.0,3.0,03/01/2025 16:16:49
+Man,40-49,Prefer not to disclose,Professional,Beginner,Yes,5.0,5.0,5.0,5.0,5.0,4.0,2.0,4.0,4.0,03/01/2025 23:08:01
+Man,30-39,United Kingdom,Professional,Beginner,Yes,2.0,2.0,4.0,4.0,5.0,3.0,2.0,4.0,4.0,05/01/2025 1:03:12
+Man,30-39,Australia,Prefer not to disclose,Intermediate,No,,,,,,,,,,05/01/2025 6:40:06
+Man,20-29,India,Professional,Beginner,Yes,5.0,5.0,4.0,3.0,5.0,4.0,3.0,2.0,2.0,05/01/2025 13:59:45
+Man,30-39,Germany,Professional,Intermediate,Yes,3.0,3.0,3.0,4.0,4.0,4.0,2.0,4.0,4.0,05/01/2025 19:59:26
+Man,40-49,United States,Professional,Intermediate,Yes,4.0,4.0,4.0,5.0,3.0,4.0,3.0,4.0,5.0,05/01/2025 23:41:16
+Man,40-49,Latvia,Professional,Beginner,Yes,1.0,4.0,4.0,,3.0,3.0,3.0,3.0,,07/01/2025 6:12:05
+Man,30-39,Latvia,Professional,Beginner,Yes,4.0,3.0,3.0,4.0,3.0,4.0,2.0,4.0,4.0,07/01/2025 7:45:12
+Man,30-39,Latvia,Professional,Beginner,Yes,4.0,4.0,4.0,4.0,4.0,3.0,2.0,1.0,4.0,07/01/2025 7:57:21
