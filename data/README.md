@@ -91,6 +91,30 @@ Added for completeness.
 
 Added for completeness.
 
+### `[base/task1/task2]_codeHealth.json` - File Level CodeHealth
+
+Added for completeness.
+
+### `[base/task1/task2]_pmd.json` - Linter Violations
+
+Added for completeness.
+
+### `[task1/task2]_cs_delta.json` - File Level Code Smell Delta
+
+Added for completeness.
+
+### `[task1/task2]_miner.json` - Refactoring Operations
+
+Added for completeness.
+
+### `all-rules.xml` - Linter Rules
+
+Added for completeness.
+
+### `code-health-rules.json` - CodeHealth Rules
+
+Added for completeness.
+
 ## Notes
 
 - All participant IDs (`github`) have been anonymized.
