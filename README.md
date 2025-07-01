@@ -2,6 +2,16 @@
 
 This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability" that was preregistered at the [Registered Reports Track](https://conf.researchr.org/track/icsme-2024/icsme-2024-registered-reports-track) of the 40th International Conference on Software Maintenance and Evolution (ICSME), Flagstaff, AZ, USA, Oct 6-11, 2024. After peer review at ICSME, the registered report received In-Principle Acceptance.
 
+## Authors
+- Markus Borg, CodeScene, Sweden and Lund University, Sweden
+- Dave Hewett, Equal Experts, UK
+- Nadim Hagatulah, Lund University, Sweden
+- Noric Couderc, Lund University, Sweden
+- Emma Söderberg, Lund University, Sweden
+- Donal Graham, Equal Experts, South Africa
+- Uttam Kini, Equal Experts, India
+- Dave Farley, Continuous Delivery, UK
+
 ## Abstract
 `[Context]` AI assistants, like GitHub Copilot and Cursor, are transforming software engineering. While several studies highlight productivity improvements, their impact on maintainability requires further investigation. 
 
