@@ -35,7 +35,7 @@ Please cite this work as follows:
 
 ```
 @article{borg_2025_echoes,
-  doi = {TBD},
+  doi = {10.48550/arXiv.2507.00788},
   author = {Borg, Markus and Hewett, Dave and Hagatulah, Nadim and Couderc, Noric and Söderberg, Emma and Graham, Donald and Kini, Uttam and Farley, Dave},  
   title = {Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability},
   publisher = {arXiv},
