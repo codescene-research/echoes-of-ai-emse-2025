@@ -93,7 +93,12 @@ Added for completeness.
 
 ### `[base/task1/task2]_codeHealth.json` - File Level CodeHealth
 
-Added for completeness.
+Individual File Level analysis of CodeHealth.<br>
+For each file in the project from $1 .. n$, the weighted project CodeHealth is calculated as:
+
+$$
+\text{WeightedAvgCodeHealth} = \frac{\sum_{i=1}^{n} \text{CodeHealth}_i \times \text{SLOC}_i}{\sum_{i=1}^{n} \text{SLOC}_i}
+$$
 
 ### `[base/task1/task2]_pmd.json` - Linter Violations
 
@@ -101,7 +106,7 @@ Added for completeness.
 
 ### `[task1/task2]_cs_delta.json` - File Level Code Smell Delta
 
-Added for completeness.
+The category `fixed` refers to `removed` in the paper.
 
 ### `[task1/task2]_miner.json` - Refactoring Operations
 
@@ -113,7 +118,7 @@ Added for completeness.
 
 ### `code-health-rules.json` - CodeHealth Rules
 
-Added for completeness.
+The thresholds for `Complex Method` and `Nested Complexity` are modified.
 
 ## Notes
 
