@@ -23,22 +23,22 @@ This repo contains a complete replication package, including raw data and script
 
 `[Conclusions]` Our study adds to the growing evidence that AI assistants can effectively accelerate development. Moreover, we did not observe warning signs of degraded code-level maintainability. We recommend that future research focus on risks such as code bloat from excessive code generation and the build-up of cognitive debt as developers invest less mental effort during implementation.
 
-## How To Cite This Work
-Please cite this work as follows:
-
-```
-@article{borg_2025_echoes,
-  doi = {TBD},
-  author = {Borg, Markus and Hewett, Dave and Hagatulah, Nadim and Couderc, Noric and Söderberg, Emma and Graham, Donald and Kini, Uttam and Farley, Dave},  
-  title = {Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability},
-  publisher = {arXiv},
-  year = {2025}
-}
-```
-
 ## Repository structure
 
 - `data/` – contains raw and cleaned datasets
 - `frequentist/` – notebooks for t-tests, chi-square, etc.
 - `bayesian/` – notebooks for Bayesian modeling
 - `descriptive/` – visual summaries and exploratory analysis
+
+## How To Cite This Work
+Please cite this work as follows:
+
+```
+@article{borg_2025_echoes,
+  doi = {10.48550/arXiv.2507.00788},
+  author = {Borg, Markus and Hewett, Dave and Hagatulah, Nadim and Couderc, Noric and Söderberg, Emma and Graham, Donald and Kini, Uttam and Farley, Dave},  
+  title = {Echoes of AI: Investigating the Downstream Effects of AI Assistants on Software Maintainability},
+  publisher = {arXiv},
+  year = {2025}
+}
+```
