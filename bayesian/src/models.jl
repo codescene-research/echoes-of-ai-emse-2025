@@ -405,6 +405,7 @@ end
     return (;effect_ai_xp, effect_dev1_skill)
 end
 
+# TEST COVERAGE
 # regression on the logit of test coverage.
 @model function test_coverage_analysis(ai_use, logit_test_coverage)
     intercept ~ Normal()
@@ -660,8 +661,6 @@ end
     end
     return cutoffs
 end
-
-
 
 # This model (using a Dirichlet distribution for the effects)
 # Samples FAR better than the other.
