@@ -229,10 +229,8 @@ end
     # Effect of Skill
     effect_skill ~ Normal()
     ladder_skill ~ Dirichlet(3, 1.0)
-    effect_dev1_skill = cumsum(ladder_skill) .* effect_skill
-
-    effects_ai = getindex(effect_ai_xp, ai_xp)
-    effects_skill = getindex(effect_dev1_skill, dev1_skill)
+    effect_dev1_skill := cumsum(ladder_skill) .* effect_skill
+    effect_skill_difference := effect_dev1_skill[3] - effect_dev1_skill[1]
 
     # Effect of interuptions
     effect_interruptions ~ Normal()
@@ -386,7 +384,11 @@ end
     # Effect of Skill
     effect_skill ~ Normal()
     ladder_skill ~ Dirichlet(3, 1.0)
-    effect_dev1_skill = cumsum(ladder_skill) .* effect_skill
+    effect_dev1_skill := cumsum(ladder_skill) .* effect_skill
+    # The effect of having more skill is actually 
+    # The diff between the advanced and the minimum level
+    # (0 doesn't exist)
+    effect_skill_difference := effect_dev1_skill[3] - effect_dev1_skill[1]
 
     effects_ai = getindex(effect_ai_xp, ai_xp)
     effects_skill = getindex(effect_dev1_skill, dev1_skill)
@@ -463,10 +465,11 @@ end
 
     effect_skill ~ Normal()
     effect_skill_factor ~ Dirichlet(3, 1.0)
-    effect_skill = cumsum(effect_skill_factor) .* effect_skill
+    effect_dev1_skill := cumsum(effect_skill_factor) .* effect_skill
+    effect_skill_difference := effect_dev1_skill[3] - effect_dev1_skill[1]
 
     effects_ai_xp = getindex(effect_ai_xp, ai_xp)
-    effects_dev_xp = getindex(effect_skill, dev1_skill)
+    effects_dev_xp = getindex(effect_dev1_skill, dev1_skill)
 
     effects_ai = ai_use .* effects_ai_xp
 
@@ -672,12 +675,13 @@ end
 
     effect_skill ~ Normal()
     effect_skill_factor ~ Dirichlet(3, 1.0)
-    effect_skill = cumsum(effect_skill_factor) .* effect_skill
+    effect_dev1_skill := cumsum(effect_skill_factor) .* effect_skill
+    effect_skill_difference := effect_dev1_skill[3] - effect_dev1_skill[1]
 
     # Effect of AI for each sample
     effect_ai_xp_ = getindex(effect_ai_xp, ai_xp)
     # Effect of skill for each sample
-    effect_dev1exp_ = getindex(effect_skill, dev1exp)
+    effect_dev1exp_ = getindex(effect_dev1_skill, dev1exp)
 
     # We use a linear predictor of the "overall productivity"
     # One productivity per person
@@ -713,7 +717,11 @@ end
         end
     end
 
-    standardized_effect_ai = effect_ai_xp ./ std(productivities_)
+    # This is the standardized effect of using AI 
+    # We standardize by the standard deviation of all productivities
+    std_productivities := std(productivities_)
+    standardized_effect_ai := effect_ai / std_productivities
+    standardized_effect_skill := effect_skill_difference ./ std_productivities
 
     return (;cutoffs,effect_ai_xp, effect_skill, productivities_, standardized_effect_ai)
     # We return a tuple with names = to the variables
