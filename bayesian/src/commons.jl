@@ -61,11 +61,20 @@ function dev1_skill_to_indexes(dev1_skills)
 end
 
 # Bayesian utilities
-function posterior_summary(posterior_dist)
+function posterior_summary(posterior_dist; direction=(<))
+    pdelta = probability_direction(posterior_dist, compare=direction)
     ci = credibility_interval(posterior_dist, 0.95)
     m = round(mean(posterior_dist), digits=2)
 
-    return (mean=m, interval_95=ci)
+    return (p_delta=pdelta, mean=m, interval_95=ci)
+end
+
+function probability_direction(posterior_dist_1, posterior_dist_2; compare = (<))
+    return mean(compare.(posterior_dist_1, posterior_dist_2))
+end
+
+function probability_direction(posterior_dist; compare = (<))
+    return mean(compare.(posterior_dist, 0))
 end
 
 function credibility_interval(posterior_dist, credibility)
